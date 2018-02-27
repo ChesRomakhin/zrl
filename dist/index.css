@@ -1,0 +1,10 @@
+body {
+    overflow: hidden;
+    margin: 0;
+    background: black;
+}
+
+@font-face {
+    font-family: "Square";
+    src: url(./fonts/square.ttf) format("truetype");
+}

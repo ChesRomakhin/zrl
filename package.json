@@ -1,0 +1,21 @@
+{
+  "name": "cr-rougelike",
+  "version": "1.0.0",
+  "description": "Zombie Rogue Like",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --open"
+  },
+  "author": "vromakhin",
+  "license": "ISC",
+  "dependencies": {
+    "rot-js": "^0.6.5"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
